@@ -1,4 +1,4 @@
-# MIPS Assembly Practice & Snake Game
+# MIPS Assembly Practice & Projects
 
 This repository contains a collection of MIPS Assembly programming exercises and graphical projects designed for the MARS (MIPS Assembler and Runtime Simulator) environment. The project is divided into progressive levels, covering basic arithmetic, control structures, memory management, and Memory-Mapped I/O (MMIO) for graphical applications like the classic Snake game.
 
