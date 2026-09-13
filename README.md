@@ -14,7 +14,7 @@ This repository contains a collection of MIPS Assembly programming exercises and
 To assemble and run these scripts, you will need:
 
 1. **Java Runtime Environment (JRE):** MARS is a Java-based application. Ensure you have JRE 8 or newer installed on your machine.
-2. **MARS Simulator:** Download the `Mars4_5.jar` file from the [official source](http://courses.missouristate.edu/KenVollmar/mars/) or its GitHub mirrors.
+2. **MARS Simulator:** Download the `Mars4_5.jar` file from the [official source](https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1) or its GitHub mirrors.
 
 ## ⚙️ How to Run
 
